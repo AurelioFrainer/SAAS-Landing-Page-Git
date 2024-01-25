@@ -1,0 +1,13 @@
+.dashboard2 {
+  width: 1080px;
+  height: 500px;
+  background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+  margin: 100px;
+  border-radius: 20px;
+}
+
+.bkdash2 {
+  max-width: 1240px;
+  margin: auto;
+  display: flex;
+}

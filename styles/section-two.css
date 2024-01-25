@@ -1,0 +1,33 @@
+.logosmarcas {
+  display: flex;
+  height: 170px;
+  padding: 0px 100px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 66px;
+  align-self: stretch;
+  
+}
+
+.imgmain2 {
+  width: 931px;
+  height: 35px;
+  
+}
+
+.linha1 {
+  width: 1190px;
+  height: 1px;
+  border-radius: 100px;
+  opacity: 0.2;
+  background: var(--White, #FFF);
+}
+
+.linha2 {
+  width: 1190px;
+  height: 1px;
+  border-radius: 100px;
+  opacity: 0.2;
+  background: var(--White, #FFF);
+}
